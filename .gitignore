@@ -1,0 +1,9 @@
+# IDE files
+.idea
+.classpath
+.project
+
+# MacOS files
+.DS_Store
+# Files created as a result of compilation and so on
+Main.class
