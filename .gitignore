@@ -5,5 +5,9 @@
 
 # MacOS files
 .DS_Store
+
+# Javadoc
+docs
+
 # Files created as a result of compilation and so on
 Main.class
